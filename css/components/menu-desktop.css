@@ -1,0 +1,15 @@
+.menu-desktop{
+    font-family: var(--font-roboto);
+}
+.ul{
+    list-style-type: none;
+}
+.li{
+    margin-left: 15px;
+}
+.link{
+    color: var(--color-black);
+}
+.link:hover{
+    color: var(--color-red);
+}
