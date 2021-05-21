@@ -1,0 +1,25 @@
+.menu-mobile{
+    display: none;
+    background-image: url('../../img/menu.png');
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+.menu-mobile .ul{
+    display: none;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 90px;
+  z-index: 9999;
+  background-color: var(--color-white);
+}
+
+.menu-mobile .ul .li{
+    margin-bottom: 10px;
+}
+.menu-mobile .ul .li .link{
+    font-size: 1.1em;
+}

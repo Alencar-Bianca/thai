@@ -2,4 +2,7 @@
     .menu-desktop{
         display: none;
     }
+    .menu-mobile{
+        display: block;
+    }
 }
