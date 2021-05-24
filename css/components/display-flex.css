@@ -1,7 +1,6 @@
 .display-flex{
     display: flex;
     align-items: center;
-
 }
 .container{
     width: 100%;
@@ -11,4 +10,12 @@
 }
 .-space{
    justify-content: space-between ;
+}
+.-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.-column{
+    flex-direction: column;
 }

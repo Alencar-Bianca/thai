@@ -44,3 +44,22 @@
 
 
 }
+@media screen and (max-width: 375px){
+   main{
+      overflow: hidden;
+   }
+   .menu-mobile .ul{
+      overflow: hidden;
+    top: 70px;
+  }
+      .-flex{
+         flex-direction: column;
+   }
+   .imgmenu{
+      width: 100%;
+      max-width: 200px;
+   }
+   .main-header img{
+      display: none;
+   }
+}
