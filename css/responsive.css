@@ -5,4 +5,42 @@
     .menu-mobile{
         display: block;
     }
+    .main-order{
+        background-image: url('../../img/bg-vermelho.jpg');
+        width: 100%;
+        min-height: 200px;
+        position: static;
+     }
+     .main-order .display-flex{
+         flex-wrap: wrap;
+        align-items: center;
+     }
+     .single{
+        width: 100%;
+        margin-left: 0px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 35px;
+     }
+    
+     .main-order .container{
+        text-align: center;
+     }
+     .imgservicos{
+        margin: auto;
+   }
+     .imgseta{
+        float: none;
+        display: none;
+     }
+     .seta{
+        position: static;
+        top: 50%;
+       transform: translate(-40%,-100%);
+     }
+
+
 }

@@ -7,6 +7,33 @@
     padding: 12px 20px;
     border-radius: 20px;
 }
+.-bg2{
+    margin: 5px auto;
+    width: 65px;
+    padding: 5px 0 ;
+    cursor: pointer;
+    border-radius: 20px;
+}
 .-bgyellow{
     background-color: var(--color-yellow);
+}
+.-bgred{
+    background-color: var(--color-red);
+}
+.-position{
+    position: relative;
+    top: -30px;
+}
+.-tam{
+    font-size: 13px;
+}
+.-coloryellow {
+    color: var(--color-yellow);
+}
+.-colorwhite{
+    color: #fff;
+}
+.w100{
+    margin: 15px 0;
+    width: 100%;
 }

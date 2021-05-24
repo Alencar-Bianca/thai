@@ -1,0 +1,17 @@
+.main-menu{
+    text-align: center;
+}
+.foods .display-flex{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.imgfood{
+    width: 100%;
+    max-width: 200px;
+}
+.singlefood{
+    display: flex;
+    flex-direction: column;
+    
+}
