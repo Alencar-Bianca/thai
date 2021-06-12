@@ -4,7 +4,7 @@
 ## 🔨 Tools
 - HTML
 - CSS
--JAVASCRIPT
+- JAVASCRIPT
 
 ### :link: Link
 <a href="https://alencar-bianca.github.io/thai/"> Projeto Caixas
